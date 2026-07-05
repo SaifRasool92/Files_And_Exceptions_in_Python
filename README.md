@@ -43,7 +43,7 @@ To run the notebooks, ensure that you have:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/File-and-Exceptions-in-Python.git
+   git clone https://github.com/SaifRasool92/Files_And_Exceptions_in_Python.git
     ```
 
 2. Navigate to the project directory:
